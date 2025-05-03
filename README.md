@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4967&pause=1000&color=3FF74A&width=435&lines=Jr+HTML+Developer;Jr+NodeJS+Developer;Minecraft+server+configurator;Discord+server+configurator;Discord+bot+creator;Owner+of+the+Imanity+Network;Owner+of+the+MazeMC+Network;Owner+of+the+GGPanda+Bot" alt="Typing SVG" /></a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4967&pause=1000&color=3FF74A&width=435&lines=HTML+Developer;Jr+CSS+Developer;Minecraft+server+configurator;Discord+server+configurator;Discord+bot+creator;Owner+of+the+Zurix+Network;Owner+of+the+MazeMC+Network;Owner+of+the+GGPanda+Bot" alt="Typing SVG" /></a>
 </p>
 
 <h3 align="center">Hola, soy <a href="https://github.com/qsckd">1siixly</a></h3>
