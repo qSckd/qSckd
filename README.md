@@ -11,7 +11,7 @@
  </p>
  
 ## Herramientas
-<p align="left"> <a href="https://github.com/qSckd"><img src="https://skillicons.dev/icons?i=vscode,idea,python,discord,nodejs,discordjs,js,html,css"> </a> </p>
+<p align="left"> <a href="https://github.com/qSckd"><img src="https://skillicons.dev/icons?i=vscode,idea,python,java,mongodb,redis,mysql,discord,nodejs,discordjs,js,html,css"> </a> </p>
 
 
 ## Idiomas utilizados
