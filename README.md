@@ -21,3 +21,12 @@
 <p align="left"> <a href="https://discord.gg/mazemc">
    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qSckd&theme=dark&langs_count=8">
 </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=qsckd&label=Profile%20views&color=0e75b6&style=flat" alt="qsckd" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=qsckd" alt="qsckd" /></a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=qsckd&show_icons=true&locale=en&layout=compact" alt="qsckd" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=qsckd&show_icons=true&locale=en" alt="qsckd" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=qsckd&" alt="qsckd" /></p>
