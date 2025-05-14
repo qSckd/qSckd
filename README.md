@@ -1,3 +1,7 @@
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=""></img>
+
+<a href=#><img src="contributions.svg"></a>
+
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4967&pause=1000&color=3FF74A&width=435&lines=HTML+Developer;Jr+CSS+Developer;Minecraft+server+configurator;Discord+server+configurator;Discord+bot+creator;Owner+of+the+Zurix+Network;Owner+of+the+MazeMC+Network;Owner+of+the+GGPanda+Bot" alt="Typing SVG" /></a>
 </p>
