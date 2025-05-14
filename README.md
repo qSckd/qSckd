@@ -3,13 +3,13 @@
 <a href=#><img src="contributions.svg"></a>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4967&pause=1000&color=3FF74A&width=435&lines=HTML+Developer;Jr+CSS+Developer;Minecraft+server+configurator;Discord+server+configurator;Discord+bot+creator;Owner+of+the+Zurix+Network;Owner+of+the+MazeMC+Network;Owner+of+the+GGPanda+Bot" alt="Typing SVG" /></a>
-</p>
 
-<h3 align="center">Hola, soy <a href="https://github.com/qsckd">1siixly</a></h3>
+<h3 align="center">Hola, soy <a href="https://github.com/qsckd">1siixly</a></h3> soy un <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4967&pause=1000&color=3FF74A&width=435&lines=HTML+Developer;Jr+CSS+Developer;Minecraft+server+configurator;Discord+server+configurator;Discord+bot+creator;Owner+of+the+Zurix+Network;Owner+of+the+MazeMC+Network;Owner+of+the+GGPanda+Bot" alt="Typing SVG" /></a>
+</p>
 <h5 align="center">Aquí puedes ver un poco sobre mi, y lo que se.</h5>
 
-<h3 align="center">Hello, im <a href="https://github.com/qsckd">1siixly</a></h3>
+<h3 align="center">Hello, im <a href="https://github.com/qsckd">1siixly</a></h3> and im a <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4967&pause=1000&color=3FF74A&width=435&lines=HTML+Developer;Jr+CSS+Developer;Minecraft+server+configurator;Discord+server+configurator;Discord+bot+creator;Owner+of+the+Zurix+Network;Owner+of+the+MazeMC+Network;Owner+of+the+GGPanda+Bot" alt="Typing SVG" /></a>
+</p>
 <h5 align="center">Here you can see about me and what i know.</h5>
 
 <p align="center">
