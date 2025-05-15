@@ -4,16 +4,25 @@
 
 <p align="center">
 
-<h3 align="center">Hola, soy <a href="https://github.com/qsckd">1siixly</a></h3>
-<h5 align="center">Aquí puedes ver un poco sobre mi, y lo que se.</h5>
+```java
+package me.maaattn.github.main;
 
-<h3 align="center">Hello, im <a href="https://github.com/qsckd">1siixly</a></h3>
-<h5 align="center">Here you can see about me and what i know.</h5>
+import org.bukkit.plugin.java.JavaPlugin;
+
+public class Github extends JavaPlugin {
+
+    @Override
+    public void onEnable() {
+        getLogger().info("Hello World");
+    }
+
+    public String getContactInfo() {
+        return "Message me on Discord: arenapvp";
+    }
+}
+```
 
 <p align="center">
-  <a href="https://discord.gg/imanity">
-    <img alt="Discord" title="Discord" src="https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
-  </a>
   <a href="https://github.com/qsckd">
     <img alt="followers" title="Github" src="https://img.shields.io/github/followers/qSckd?color=236ad3&style=for-the-badge&logo=github&label=Follow"/>
   </a>
