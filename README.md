@@ -11,10 +11,14 @@
 <h5 align="center">Here you can see about me and what i know.</h5>
 
 <p align="center">
-  <a href="https://discord.gg/imanity"><img alt="Discord" title="Discord" src="https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
-   <a href="https://github.com/qsckd"><img alt="followers" title="Github" src="https://img.shields.io/github/followers/qSckd?color=236ad3&style=for-the-badge&logo=github&label=Follow"/></a>
-    <p align="center"> <img src="https://komarev.com/ghpvc/?username=qsckd&label=Profile%20views&color=0e75b6&style=flat" alt="qsckd" /> </p>
- </p>
+  <a href="https://discord.gg/imanity">
+    <img alt="Discord" title="Discord" src="https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
+  </a>
+  <a href="https://github.com/qsckd">
+    <img alt="followers" title="Github" src="https://img.shields.io/github/followers/qSckd?color=236ad3&style=for-the-badge&logo=github&label=Follow"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=qsckd&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="qsckd"/>
+</p>
  
 ## What i know or use
 <p align="left"> <a href="https://github.com/qSckd"><img src="https://skillicons.dev/icons?i=vscode,idea,python,java,mongodb,python,redis,mysql,discord,nodejs,discordjs,js,html,css"> </a> </p>
