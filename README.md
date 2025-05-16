@@ -36,7 +36,7 @@ public class Github extends JavaPlugin {
 ## 🚀 What I Know or Use
 <p align="center">
   <a href="https://github.com/qSckd">
-    <img src="https://skillicons.dev/icons?i=vscode,idea,python,java,mongodb,redis,mysql,discord,nodejs,discordjs,js,html,css" alt="Skills">
+    <img src="https://skillicons.dev/icons?i=vscode,idea,python,java,mongodb,redis,mysql,discord,nodejs,discordjs,js,html,css,php,gmail,html3,c++,powershell,linux,instagram,blender,dotnet,sqlite,svg,github" alt="Skills">
   </a>
 </p>
 
