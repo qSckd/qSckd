@@ -8,7 +8,7 @@
 <h5 align="center">Here you can see about me and what i know.</h5>
 <h5 align="center">If you are looking for a developer/configurator, contact me.</h5>
 
-<a href=#><img src="contributions.svg"></a>
+<p align="center">
 
 ![status](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/276544649148235776?simple=true)
 ![playing](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/playing/276544649148235776)
