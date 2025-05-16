@@ -8,6 +8,11 @@
 <h5 align="center">Here you can see about me and what i know.</h5>
 <h5 align="center">If you are looking for a developer/configurator, contact me.</h5>
 
+![status](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/813520688572530699?simple=true)
+![playing](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/playing/813520688572530699)
+![vscode](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/813520688572530699)
+[![spotify](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/spotify/813520688572530699)](https://dev.discordprofiles.me/openspotify/813520688572530699)
+
 ```java
 package me.maaattn.github.main;
 
@@ -36,7 +41,7 @@ public class Github extends JavaPlugin {
 ## 🚀 What I Know or Use
 <p align="center">
   <a href="https://github.com/qSckd">
-    <img src="https://skillicons.dev/icons?i=vscode,idea,python,java,mongodb,redis,mysql,discord,nodejs,discordjs,js,html,css,php,gmail,html3,figma,docker,replit,powershell,typescript,debian,eclipse,photoshop,linux,instagram,blender,dotnet,sqlite,svg,github" alt="Skills">
+    <img src="https://skillicons.dev/icons?i=vscode,idea,python,java,mongodb,redis,mysql,discord,nodejs,discordjs,js,html,css,php,gmail,html3,docker,replit,powershell,typescript,debian,eclipse,photoshop,linux,instagram,blender,dotnet,sqlite,svg,github" alt="Skills">
   </a>
 </p>
 
