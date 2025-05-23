@@ -33,10 +33,10 @@ public class Github extends JavaPlugin {
   <img src="https://komarev.com/ghpvc/?username=qsckd&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="qsckd"/>
 </p>
  
-## 🚀 What I Know or Use
+## 🚀 What I Know/Use
 <p align="center">
   <a href="https://github.com/qSckd">
-    <img src="https://skillicons.dev/icons?i=vscode,idea,python,java,mongodb,redis,mysql,discord,nodejs,discordjs,js,html,css,php,gmail,html3,docker,replit,powershell,typescript,debian,eclipse,photoshop,linux,instagram,blender,dotnet,sqlite,svg,github" alt="Skills">
+    <img src="https://skillicons.dev/icons?i=vscode,idea,python,java,mongodb,redis,mysql,discord,nodejs,discordjs,js,html,css,php,gmail,html3,docker,replit,powershell,typescript,debian,eclipse,photoshop,linux,instagram,dotnet,sqlite,github" alt="Skills">
   </a>
 </p>
 
