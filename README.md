@@ -4,7 +4,7 @@
 
 <p align="center">
 
-<h3 align="center">Hello, im <a href="https://github.com/qsckd">1siixly</a></h3>
+<h3 align="center">Hello, im <a href="https://github.com/qsckd">matt</a></h3>
 <h5 align="center">Here you can see about me and what i know.</h5>
 <h5 align="center">If you are looking for a developer/configurator, contact me.</h5>
 
