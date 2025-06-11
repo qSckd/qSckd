@@ -11,7 +11,7 @@
 ### https://matthew.tf/
 
 ```java
-package me.maaattn.github.main;
+package me.maaattn.github;
 
 import org.bukkit.plugin.java.JavaPlugin;
 
