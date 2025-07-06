@@ -121,16 +121,6 @@ public class Github extends JavaPlugin {
 }
 ```
 
-## 📝 Features
-- Custom plugin development
-- Backend API design
-- Database integration
-- Discord bot creation
-- Web development
-- Automation scripting
-- Cloud deployment
-- Open-source contributions
-
 ## 📈 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qSckd&theme=dark&langs_count=8&layout=compact" alt="Top Languages" />
