@@ -307,15 +307,11 @@
 <!-- If you are going to steal my code, at least fork the repo from my profile. -->
 <!-- If you are going to steal my code, at least fork the repo from my profile. -->
 <!-- If you are going to steal my code, at least fork the repo from my profile. -->
-<!-- If you are going to steal my code, at least fork the repo from my profile. --><picture><!-- If you are going to steal my code, at least fork the repo from my profile. -->
-<!-- If you are going to steal my code, at least fork the repo from my profile. -->
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg"><!-- If you are going to steal my code, at least fork the repo from my profile. -->
-<!-- If you are going to steal my code, at least fork the repo from my profile. -->
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg"><!-- If you are going to steal my code, at least fork the repo from my profile. -->
-<!-- If you are going to steal my code, at least fork the repo from my profile. -->
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg"><!-- If you are going to steal my code, at least fork the repo from my profile. -->
-<!-- If you are going to steal my code, at least fork the repo from my profile. -->
-</picture><!-- If you are going to steal my code, at least fork the repo from my profile. -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/qsckd/qsckd/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/qsckd/qsckd/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/qsckd/qsckd/output/pacman-contribution-graph.svg">
+</picture>
 <!-- If you are going to steal my code, at least fork the repo from my profile. -->
 <!-- If you are going to steal my code, at least fork the repo from my profile. -->
 <!-- If you are going to steal my code, at least fork the repo from my profile. -->
