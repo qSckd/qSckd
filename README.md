@@ -10,7 +10,7 @@
 
 ## 👤 About Me
 
-Hi, I'm [Matthew P.](https://matthew.tf) — a 16-year-old developer and configurator who loves building things and solving problems. I'm always exploring new tech, working on creative projects, and helping others in the community. If you're looking for someone who's passionate about code and collaboration, let's connect!
+Hi, I'm [Matthew P.](https://matthew.tf) — a 16-year-old developer and configurator who loves building things and solving problems. I'm always exploring new stuff, working on creative projects, and helping others. If you're looking for someone who knows about Coding or similar, DM Me.
 
 - 🔭 **What I'm Up To:** Building scalable backend systems, Discord bots, and automation tools.
 - 🌱 **Currently Learning:** Advanced Java, TypeScript, and cloud infrastructure.
@@ -83,7 +83,7 @@ Hi, I'm [Matthew P.](https://matthew.tf) — a 16-year-old developer and configu
 - **Tools:** VSCode, IntelliJ IDEA, Docker, Replit, PowerShell, Eclipse, Photoshop
 - **Platforms:** Linux, Debian, Windows
 
-## 📦 Example Project
+## 📦 Contact me!
 
 ```java
 package me.maaattn.github;
