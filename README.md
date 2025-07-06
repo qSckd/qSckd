@@ -82,25 +82,41 @@ Hi, I'm [Matthew P.](https://matthew.tf) a 16-year-old developer and configurato
 ```java
 package me.maaattn.github;
 
+import org.bukkit.command.Command;
+import org.bukkit.command.CommandSender;
 import org.bukkit.plugin.java.JavaPlugin;
 
 public class Github extends JavaPlugin {
-    private final String name = "Matt";
-    private final int age = 16;
+
     private final String discord = "arenapvp";
     private final String email = "contact@matthew.tf";
 
     @Override
     public void onEnable() {
-        getLogger().info("Hello World from " + name + " (age: " + age + ")");
+        getLogger().info("Hello World.");
+    }
+
+    @Override
+    public void onDisable() {
+        getLogger().info("Goodbye World.");
+    }
+
+    @Override
+    public boolean onCommand(CommandSender sender, Command command, String label, String[] args) {
+        if (label.equalsIgnoreCase("contact")) {
+            sender.sendMessage("§bDiscord: §f" + discord);
+            sender.sendMessage("§bEmail: §f" + email);
+            return true;
+        }
+        return false;
     }
 
     public String getContactInfo() {
-        return "Message me on Discord: " + discord + " or email: " + email;
+        return "Discord: " + discord + ", Email: " + email;
     }
 
     public String getBio() {
-        return name + " is a passionate developer, age " + age + ", focused on backend and automation.";
+        return "matthew.tf is a passionate backend developer focused on automation.";
     }
 }
 ```
