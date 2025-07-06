@@ -8,7 +8,7 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
 </picture>
 
-## 👤 About Me
+## 👤 About Me 
 
 Hi, I'm [Matthew P.](https://matthew.tf) a 16-year-old developer and configurator who loves building things and solving problems. I'm always exploring new stuff, working on creative projects, and helping others. If you're looking for someone who knows about Coding or similar, DM Me.
 
@@ -123,8 +123,6 @@ public class Github extends JavaPlugin {
 
 ## 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qSckd&theme=dark&langs_count=8&layout=compact" alt="Top Languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=qsckd&theme=dark" alt="GitHub Streak" />
   <img src="https://github-profile-trophy.vercel.app/?username=qsckd&theme=darkhub&margin-w=15&no-frame=true" alt="Trophies" />
   <img src="https://komarev.com/ghpvc/?username=qsckd&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="qsckd"/>
 </p>
