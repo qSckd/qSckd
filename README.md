@@ -30,7 +30,8 @@ Hi, I'm [Matthew P.](https://matthew.tf) — a 16-year-old developer and configu
 
 ## 🛠️ Technical Skills
 
-- **Programming Languages:** Python, Java, TypeScript, JavaScript, PHP, SQL
+- **Programming Languages:** Python, Java, TypeScript, JavaScript, PHP, SQL, etc.
+- **Frameworks/Libraries:** Node.js, Discord.js, .NET
 - **Web Development:** HTML, CSS, React, Next.js, Vue
 - **Game Plugin Development:** Spigot, Bukkit, PaperMC, and Minecraft server APIs — from coding to full setup.
 - **Operating Systems:** 2+ years with Linux, 4 with Windows, 4 with OS X
@@ -75,13 +76,6 @@ Hi, I'm [Matthew P.](https://matthew.tf) — a 16-year-old developer and configu
 <p align="center">
   <img src="https://skillicons.dev/icons?i=vscode,idea,python,java,mongodb,redis,mysql,discord,nodejs,discordjs,js,html,css,php,gmail,html3,docker,replit,powershell,typescript,debian,eclipse,photoshop,linux,instagram,dotnet,sqlite,github" alt="Skills">
 </p>
-
-## 🛠️ Technologies & Tools
-- **Languages:** Python, Java, JavaScript, TypeScript, PHP, HTML, CSS
-- **Databases:** MongoDB, Redis, MySQL, SQLite
-- **Frameworks/Libraries:** Node.js, Discord.js, .NET
-- **Tools:** VSCode, IntelliJ IDEA, Docker, Replit, PowerShell, Eclipse, Photoshop
-- **Platforms:** Linux, Debian, Windows
 
 ## 📦 Contact me!
 
