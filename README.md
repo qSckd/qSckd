@@ -123,7 +123,7 @@ public class Github extends JavaPlugin {
 
 ## 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=qsckd&theme=darkhub&margin-w=15&no-frame=true" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=qsckd&theme=darkhub&margin-w=15&no-frame=true" alt="Trophies"/>
   <img src="https://komarev.com/ghpvc/?username=qsckd&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="qsckd"/>
 </p>
 
