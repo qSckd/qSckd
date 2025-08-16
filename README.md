@@ -10,7 +10,7 @@
 
 ## 👤 About Me 
 
-Hi, I'm [Matthew P.](https://matthew.tf) a 16-year-old developer and configurator who loves building things and solving problems. I'm always exploring new stuff, working on creative projects, and helping others. If you're looking for someone who knows about Coding or similar, DM Me.
+Hi, I'm [Matthew P.](https://matthew.tf) a developer and configurator who loves building and fixing. I'm always exploring new things to-do, work on creative projects, and helping others. If you're looking for someone who knows about Coding or similar, DM Me.
 
 - 🔭 **What I'm Up To:** Building scalable backend systems, Discord bots, and automation tools.
 - 🌱 **Currently Learning:** Advanced Java, TypeScript, and cloud infrastructure.
