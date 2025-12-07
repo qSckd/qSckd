@@ -10,10 +10,10 @@
 
 ## 👤 About Me 
 
-Hi, I'm [Matthew P.](https://matthew.tf) a developer and configurator who loves building and fixing. I'm always exploring new things to-do, work on creative projects, and helping others. If you're looking for someone who knows about Coding or similar, DM Me.
+Hi, I'm [Matthew P.](https://matthew.tf) a developer and configurator who loves building and fixing. I'm always exploring new things to do, helping others, etc If you're looking for someone who knows about Coding or similar, DM Me.
 
 - 🔭 **What I'm Up To:** Building scalable backend systems, Discord bots, and automation tools.
-- 🌱 **Currently Learning:** Advanced Java, TypeScript, and cloud infrastructure.
+- 🌱 **Currently Learning:** Advanced Java, TypeScript, Kotlin.
 - 🏆 **Age:** 16
 
 ---
@@ -23,17 +23,14 @@ Hi, I'm [Matthew P.](https://matthew.tf) a developer and configurator who loves 
 - **Minecraft Server Solutions**  
   I design and optimize custom plugins for Minecraft networks, focusing on fun gameplay, stability, and performance.
 
-- **Software Experiments & Learning**  
-  I love tinkering with side projects, exploring new languages, and keeping up with the latest in software engineering.
-
 ---
 
 ## 🛠️ Technical Skills
 
 - **Programming Languages:** Python, Java, TypeScript, JavaScript, PHP, SQL, etc.
 - **Frameworks/Libraries:** Node.js, Discord.js, .NET
-- **Web Development:** HTML, CSS, React, Next.js, Vue
-- **Game Plugin Development:** Spigot, Bukkit, PaperMC, and Minecraft server APIs — from coding to full setup.
+- **Web Development:** HTML, CSS, React, Next.js.
+- **Game Plugin Development:** Spigot, Bukkit, PaperMC, and Minecraft server APIs.
 - **Operating Systems:** 2+ years with Linux, 4 with Windows, 4 with OS X
 - **Databases I've Used:** MongoDB, Redis, MySQL, SQLite, Supabase, Postgres, MariaDB
 - **Dev Tools:** IntelliJ IDEA, VSCode, Eclipse
@@ -44,32 +41,21 @@ Hi, I'm [Matthew P.](https://matthew.tf) a developer and configurator who loves 
 
 - **Level Up Backend Skills**  
   I want to master scalable backend architectures and distributed systems.
-
 - **Keep Innovating in Game Dev**  
   I'm always working on new Minecraft plugins and looking into other game engines.
-
-- **Grow as a Full-Stack Dev**  
-  I'm diving deeper into modern JavaScript frameworks and state management.
-
 - **Give Back to Open Source**  
   I love contributing to open-source and learning from the community.
-
-- **Foster a Developer Community**  
-  Sharing knowledge, mentoring, and building connections is important to me.
-
 ---
 
 ## 🌐 Current Projects
 
-- **[nodebuff.club](https://github.com/qsckd)** – Competitive Minecraft PvP server with custom plugins and advanced anti-cheat.
-- **[imanity.club](https://github.com/qsckd)** – Minecraft network focused on unique gameplay and scalable infrastructure.
+- **[hyrise.fun](https://github.com/qsckd)** – Competitive Minecraft PvP server with custom plugins and advanced anti-cheat.
+- **[nexomc.org](https://github.com/qsckd)** – Competitive Minecraft PvP server with custom plugins and advanced anti-cheat.
+- **[chaosmc.lol](https://github.com/qsckd)** – Competitive Minecraft PvP server with custom plugins and advanced anti-cheat.
 - **[drip.plus](https://github.com/qsckd)** – Modern games website (full recode coming soon!).
-- **[mazemc.es](https://github.com/qsckd)** – Spanish Minecraft server with custom events and player-driven content.
-- **[destroyed.live](https://github.com/qsckd)** – Real-time event tracking and analytics for gaming communities.
 - **[matthew.tf](https://github.com/qsckd)** – My personal portfolio and blog, where I share my work and thoughts.
-- **[neft.fun](https://github.com/qsckd)** – Fun and experimental web projects, games, and interactive tools.
+- **[neft.fun](https://github.com/qsckd)** – Games website
 - **[renux.pro](https://github.com/qsckd)** – Public prompts for AI.
-- **[deleted.live](https://github.com/qsckd)** – Minecraft PvP server made for fun.
 
 ## 🚀 What I Know / Use
 
@@ -88,7 +74,7 @@ import org.bukkit.plugin.java.JavaPlugin;
 
 public class Github extends JavaPlugin {
 
-    private final String discord = "arenapvp";
+    private final String discord = "matthew.tf";
     private final String email = "contact@matthew.tf";
 
     @Override
