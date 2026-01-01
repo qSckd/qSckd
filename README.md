@@ -1,69 +1,76 @@
-<p align="center">
-  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height="">
-</p>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
 </picture>
 
-## 👤 About Me 
+## About Me
 
-Hi, I'm [Matthew P.](https://matthew.tf) a developer and configurator who loves building and fixing. I'm always exploring new things to do, helping others, etc If you're looking for someone who knows about Coding or similar, DM Me.
+Hi, I’m **[Matthew](https://matthew.tf)**.
+I’m a developer and configurator who enjoys building systems, fixing problems, and figuring out how things work under the hood. I’m constantly experimenting with new ideas and helping others when I can. If you’re looking for someone knowledgeable in coding or backend systems, feel free to reach out.
 
-- 🔭 **What I'm Up To:** Building scalable backend systems, Discord bots, and automation tools.
-- 🌱 **Currently Learning:** Advanced Java, TypeScript, Kotlin.
-- 🏆 **Age:** 16
-
----
-
-## 🚧 Ongoing Projects
-
-- **Minecraft Server Solutions**  
-  I design and optimize custom plugins for Minecraft networks, focusing on fun gameplay, stability, and performance.
+* **Current focus:** Backend systems, Discord bots, and automation
+* **Learning:** Advanced Java, TypeScript, Kotlin
+* **Age:** 16
 
 ---
 
-## 🛠️ Technical Skills
+## Ongoing Work
 
-- **Programming Languages:** Python, Java, TypeScript, JavaScript, PHP, SQL, etc.
-- **Frameworks/Libraries:** Node.js, Discord.js, .NET
-- **Web Development:** HTML, CSS, React, Next.js.
-- **Game Plugin Development:** Spigot, Bukkit, PaperMC, and Minecraft server APIs.
-- **Operating Systems:** 2+ years with Linux, 4 with Windows, 4 with OS X
-- **Databases I've Used:** MongoDB, Redis, MySQL, SQLite, Supabase, Postgres, MariaDB
-- **Dev Tools:** IntelliJ IDEA, VSCode, Eclipse
+### Minecraft Server Development
+
+I design, maintain, and optimize custom Minecraft plugins for competitive servers. My focus is on clean architecture, performance, stability, and gameplay that actually feels good to play.
 
 ---
 
-## 🎯 Goals
+## Technical Skills
 
-- **Level Up Backend Skills**  
-  I want to master scalable backend architectures and distributed systems.
-- **Keep Innovating in Game Dev**  
-  I'm always working on new Minecraft plugins and looking into other game engines.
-- **Give Back to Open Source**  
-  I love contributing to open-source and learning from the community.
+* **Languages:** Python, Java, TypeScript, JavaScript, PHP, SQL
+* **Frameworks & Libraries:** Node.js, Discord.js, .NET
+* **Web:** HTML, CSS, React, Next.js
+* **Minecraft Development:** Spigot, Bukkit, PaperMC, various server APIs
+* **Operating Systems:**
+
+  * Linux (2+ years)
+  * Windows (4+ years)
+  * macOS (4+ years)
+* **Databases:** MongoDB, Redis, MySQL, SQLite, Supabase, PostgreSQL, MariaDB
+* **Tools:** IntelliJ IDEA, VS Code, Eclipse
+
 ---
 
-## 🌐 Current Projects
+## Goals
 
-- **[hyrise.fun](https://github.com/qsckd)** – Competitive Minecraft PvP server with custom plugins and advanced anti-cheat.
-- **[nexomc.org](https://github.com/qsckd)** – Competitive Minecraft PvP server with custom plugins and advanced anti-cheat.
-- **[chaosmc.lol](https://github.com/qsckd)** – Competitive Minecraft PvP server with custom plugins and advanced anti-cheat.
-- **[drip.plus](https://github.com/qsckd)** – Modern games website (full recode coming soon!).
-- **[matthew.tf](https://github.com/qsckd)** – My personal portfolio and blog, where I share my work and thoughts.
-- **[neft.fun](https://github.com/qsckd)** – Games website
-- **[renux.pro](https://github.com/qsckd)** – Public prompts for AI.
+* **Become stronger in backend engineering**
+  Especially scalable systems, performance, and distributed architecture.
+* **Continue pushing game development forward**
+  Mainly within Minecraft, but also exploring other engines and platforms.
+* **Contribute more to open source**
+  I enjoy learning through collaboration and giving back when possible.
 
-## 🚀 What I Know / Use
+---
+
+## Active Projects
+
+* **[hyrise.fun](https://github.com/qsckd)** – Competitive Minecraft PvP server with custom plugins and advanced anti-cheat
+* **[nexomc.org](https://github.com/qsckd)** – Competitive Minecraft PvP server with custom plugins and advanced anti-cheat
+* **[chaosmc.lol](https://github.com/qsckd)** – Competitive Minecraft PvP server with custom plugins and advanced anti-cheat
+* **[drip.plus](https://github.com/qsckd)** – Modern games website (full rewrite coming soon)
+* **[matthew.tf](https://github.com/qsckd)** – Personal portfolio and blog
+* **[neft.fun](https://github.com/qsckd)** – Games website
+* **[renux.pro](https://github.com/qsckd)** – Public AI prompts and experiments
+
+---
+
+## Tools & Technologies
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,idea,python,java,mongodb,redis,mysql,discord,nodejs,discordjs,js,html,css,php,gmail,html3,docker,replit,powershell,typescript,debian,eclipse,photoshop,linux,instagram,dotnet,sqlite,github" alt="Skills">
+  <img src="https://skillicons.dev/icons?i=vscode,idea,python,java,mongodb,redis,mysql,discord,nodejs,discordjs,js,html,css,php,docker,powershell,typescript,debian,eclipse,linux,dotnet,sqlite,github" alt="Skills">
 </p>
 
-## 📦 Contact me!
+---
+
+## Contact (Java-style)
 
 ```java
 package me.maaattn.github;
@@ -97,35 +104,39 @@ public class Github extends JavaPlugin {
         return false;
     }
 
-    public String getContactInfo() {
-        return "Discord: " + discord + ", Email: " + email;
-    }
-
     public String getBio() {
-        return "matthew.tf is a passionate backend developer focused on automation.";
+        return "Backend-focused developer with a strong interest in automation and systems design.";
     }
 }
 ```
 
-## 📈 GitHub Stats
+---
+
+## GitHub Activity
+
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=qsckd&theme=darkhub&margin-w=15&no-frame=true" alt="Trophies"/>
-  <img src="https://komarev.com/ghpvc/?username=qsckd&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="qsckd"/>
+  <img src="https://komarev.com/ghpvc/?username=qsckd&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views"/>
 </p>
-
-## 🤝 Contact
-- **Discord:** arenapvp
-- **Email:** [contact@matthew.tf](mailto:contact@matthew.tf)
-- **GitHub:** [qsckd](https://github.com/qsckd)
 
 ---
 
-<h3 align="center">Thank you for visiting my profile! 🚀</h3>
-<h4 align="center">Before you go, don't miss my pinned repositories below, they showcase my public projects.</h4>
-<p align="center">
-  <em>Feel free to connect, collaborate, or reach out if you have any questions or ideas!</em>
-</p>
+## Get in Touch
+
+* **Discord:** maaattn (old acc got termed)
+* **Email:** [contact@matthew.tf](mailto:contact@matthew.tf)
+* **GitHub:** [qsckd](https://github.com/qsckd)
+
+---
 
 <p align="center">
-  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height="">
+  <strong>Thanks for stopping by.</strong><br>
+  Check out the pinned repositories below for a look at my public work.<br><br>
+  <em>If you want to collaborate or just talk tech, feel free to reach out.</em>
 </p>
+
+```html
+<p align="center">
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920">
+</p>
+```
