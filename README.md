@@ -1,3 +1,5 @@
+<p align="center"> <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=""> </p>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
@@ -18,7 +20,6 @@ I’m a developer and configurator who enjoys building systems, fixing problems,
 ## Ongoing Work
 
 ### Minecraft Server Development
-
 I design, maintain, and optimize custom Minecraft plugins for competitive servers. My focus is on clean architecture, performance, stability, and gameplay that actually feels good to play.
 
 ---
@@ -32,21 +33,10 @@ I design, maintain, and optimize custom Minecraft plugins for competitive server
 * **Operating Systems:**
 
   * Linux (2+ years)
-  * Windows (4+ years)
+  * Windows (5+ years)
   * macOS (4+ years)
 * **Databases:** MongoDB, Redis, MySQL, SQLite, Supabase, PostgreSQL, MariaDB
 * **Tools:** IntelliJ IDEA, VS Code, Eclipse
-
----
-
-## Goals
-
-* **Become stronger in backend engineering**
-  Especially scalable systems, performance, and distributed architecture.
-* **Continue pushing game development forward**
-  Mainly within Minecraft, but also exploring other engines and platforms.
-* **Contribute more to open source**
-  I enjoy learning through collaboration and giving back when possible.
 
 ---
 
@@ -55,7 +45,7 @@ I design, maintain, and optimize custom Minecraft plugins for competitive server
 * **[hyrise.fun](https://github.com/qsckd)** – Competitive Minecraft PvP server with custom plugins and advanced anti-cheat
 * **[nexomc.org](https://github.com/qsckd)** – Competitive Minecraft PvP server with custom plugins and advanced anti-cheat
 * **[chaosmc.lol](https://github.com/qsckd)** – Competitive Minecraft PvP server with custom plugins and advanced anti-cheat
-* **[drip.plus](https://github.com/qsckd)** – Modern games website (full rewrite coming soon)
+* **[drip.plus](https://github.com/qsckd)** – Modern games website (full recode coming soon)
 * **[matthew.tf](https://github.com/qsckd)** – Personal portfolio and blog
 * **[neft.fun](https://github.com/qsckd)** – Games website
 * **[renux.pro](https://github.com/qsckd)** – Public AI prompts and experiments
@@ -70,7 +60,7 @@ I design, maintain, and optimize custom Minecraft plugins for competitive server
 
 ---
 
-## Contact (Java-style)
+## Contact me!
 
 ```java
 package me.maaattn.github;
@@ -81,7 +71,7 @@ import org.bukkit.plugin.java.JavaPlugin;
 
 public class Github extends JavaPlugin {
 
-    private final String discord = "matthew.tf";
+    private final String discord = "maaattn";
     private final String email = "contact@matthew.tf";
 
     @Override
@@ -115,7 +105,6 @@ public class Github extends JavaPlugin {
 ## GitHub Activity
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=qsckd&theme=darkhub&margin-w=15&no-frame=true" alt="Trophies"/>
   <img src="https://komarev.com/ghpvc/?username=qsckd&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views"/>
 </p>
 
@@ -135,8 +124,4 @@ public class Github extends JavaPlugin {
   <em>If you want to collaborate or just talk tech, feel free to reach out.</em>
 </p>
 
-```html
-<p align="center">
-  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920">
-</p>
-```
+<p align="center"> <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=""> </p>
