@@ -9,7 +9,7 @@
 ## About Me
 
 Hi, I’m **[Matthew](https://matthew.tf)**.
-I’m a developer and configurator who enjoys building systems, fixing problems, and figuring out how things work under the hood. I’m constantly experimenting with new ideas and helping others when I can. If you’re looking for someone knowledgeable in coding or backend systems, feel free to reach out.
+I’m a developer and configurator who enjoys building systems, fixing problems, and figuring out how things work. I’m constantly experimenting with new ideas and helping others when I can. If you’re looking for someone knowledgeable in coding or backend systems, feel free to reach out.
 
 * **Current focus:** Backend systems, Discord bots, and automation
 * **Learning:** Advanced Java, TypeScript, Kotlin
@@ -31,7 +31,6 @@ I design, maintain, and optimize custom Minecraft plugins for competitive server
 * **Web:** HTML, CSS, React, Next.js
 * **Minecraft Development:** Spigot, Bukkit, PaperMC, various server APIs
 * **Operating Systems:**
-
   * Linux (2+ years)
   * Windows (5+ years)
   * macOS (4+ years)
@@ -42,9 +41,8 @@ I design, maintain, and optimize custom Minecraft plugins for competitive server
 
 ## Active Projects
 
-* **[hyrise.fun](https://github.com/qsckd)** – Competitive Minecraft PvP server with custom plugins and advanced anti-cheat
 * **[nexomc.org](https://github.com/qsckd)** – Competitive Minecraft PvP server with custom plugins and advanced anti-cheat
-* **[chaosmc.lol](https://github.com/qsckd)** – Competitive Minecraft PvP server with custom plugins and advanced anti-cheat
+* **[tilted.rip](https://tilted.rip/)** – Games website (Replacement for drip)
 * **[drip.plus](https://github.com/qsckd)** – Modern games website (full recode coming soon)
 * **[matthew.tf](https://github.com/qsckd)** – Personal portfolio and blog
 * **[neft.fun](https://github.com/qsckd)** – Games website
@@ -87,15 +85,15 @@ public class Github extends JavaPlugin {
     @Override
     public boolean onCommand(CommandSender sender, Command command, String label, String[] args) {
         if (label.equalsIgnoreCase("contact")) {
-            sender.sendMessage("§bDiscord: §f" + discord);
-            sender.sendMessage("§bEmail: §f" + email);
+            sender.sendMessage("§fDiscord: §b" + discord);
+            sender.sendMessage("§fEmail: §b" + email);
             return true;
         }
         return false;
     }
 
     public String getBio() {
-        return "Backend-focused developer with a strong interest in automation and systems design.";
+        return "Fullstack developer";
     }
 }
 ```
