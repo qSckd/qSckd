@@ -80,7 +80,6 @@ and competitive Minecraft server environments.
 ```
 - nexomc.org — Competitive Minecraft PvP server
 - tilted.rip — Browser games platform
-- drip.plus — Games website (recode in progress)
 - matthew.tf — Portfolio & blog
 - renux.pro — AI prompts & experiments
 ```
