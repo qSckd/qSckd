@@ -7,10 +7,8 @@
 
 ---
 
-## 🧠 About
-
-Backend & systems developer focused on building scalable infrastructure, automation tools,  
-and competitive Minecraft server environments.
+## About
+Fullstack developer
 
 **Current Focus**
 - Backend architecture
@@ -24,7 +22,7 @@ and competitive Minecraft server environments.
 
 ---
 
-## 🏆 Tools
+## Tools
 
 <p align="center"> <img src="https://skillicons.dev/icons?i=vscode,idea,python,java,mongodb,redis,mysql,discord,nodejs,discordjs,js,html,css,php,docker,powershell,typescript,debian,eclipse,linux,dotnet,sqlite,github" alt="Skills"> </p>
 
@@ -38,8 +36,6 @@ and competitive Minecraft server environments.
 >> Java
 >> TypeScript
 >> JavaScript
->> PHP
->> SQL
 ```
 
 - #### Backend & Tools
@@ -76,22 +72,10 @@ and competitive Minecraft server environments.
 
 ---
 
-## 📦 Active Projects
-```
-- nexomc.org — Competitive Minecraft PvP server
-- tilted.rip — Browser games platform
-- matthew.tf — Portfolio & blog
-- renux.pro — AI prompts & experiments
-```
-
----
-
-## 📬 Contact
+## Contact
 
 ```
-Discord: maaattn
-Email: contact@matthew.tf
-GitHub: github.com/qsckd
+Telegram: unclaimedhit
 ```
 
 ---
